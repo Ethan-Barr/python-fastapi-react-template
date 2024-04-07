@@ -1,4 +1,4 @@
-# Python-ReactJS
+# Python & ReactJS using FastAPI module in Python
 This project demostrates how to link a React frnotend with a FastAPI backend using Python. This application showcases basic communication between the frontened and backend for various HTTP methods. 
 
 ## Prerequisites 
